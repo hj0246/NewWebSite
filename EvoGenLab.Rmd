@@ -1,0 +1,5 @@
+---
+title: "EvoGenLab"
+---
+
+This is the collection of files from the course repository  (https://github.com/hj0246/genomics-course.git) for Evolutionary Genomics & Bioinformatic class at University of Massachusettes Amherst

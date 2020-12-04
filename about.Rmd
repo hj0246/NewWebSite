@@ -1,0 +1,17 @@
+---
+title: "About This Website"
+---
+
+![](images/profile.JPG)
+
+# ME!
+  Originally from South Korea, I started my study in international relationship and political sciences from Catholic University in Daegu. After a year, I made a sudden decision to transition into a career in scientific research, pursuing a B.S. in Biomedical Sciences, where I was introduced to various cellular and molecular techniques as an undergraduate research scientist. From Minnesota State University, pursuing a B.S in Biomedical Sciences and M.S in Biology, my work focused on the cross talk between steroid and thyroid hormones in reproduction and behavior in lizards, which paved my path into neuroendocrinology. Upon finishing the masters degree, I joined the Neuroscience and Behavior doctorate program at here UMASS Amherst to work with Dr. Luke Remage-Healey who studies vocal learning and brain plasticity on songbirds. Besides research, I am also a food and culture enthusiast. I spend my free time cooking and baking new recipes, and that turns out to feed me and my roommate! ;p
+
+# My Research!
+![](images/finch.jpg) ![](images/songbirdcircuits.jpg)
+
+  My biggest interest in Neuroscience is about the rapid estrogen signalling in the cortex. Estrogens are steroid hormones that are produced not only from gonads, but also within discrete neural circuts in the cortex of humans and songbirds. Songbirds as the model for studying vocal learning express the estrogen-synthetic enzyme aromatase in both neuronal cell bodies and presynaptic boutons in the auditory cortex. Thus the acute actions of neuroestrogens on behavioral circuits mediates the behavioral outcome. However, this actions are not well understood and especially, target specificities of neuroestrogens in bird’s song circuits are less studied. My current work is focused on understanding the cellular physiology and circuit network that underlies the estrogen action on vocal learning and auditory processing by using songbirds. I primarily utilize electrophysiological techniques (patch clamp) and genetic tagging of the cells using virus for my investigation.
+
+# Here, check out my old lizard work!
+![](images/lizards.png)
+ Kang, H., Kenealy, T. M., & Cohen, R. E. 2020. [The hypothalamic-pituitary-gonadal axis and thyroid hormone regulation interact to influence seasonal breeding in green anole lizards (Anolis carolinensis)](https://www.sciencedirect.com/science/article/pii/S0016648020300782?via%3Dihub). General and Comparative Endocrinology, 113446.
